@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @corymott
 - 👀 I’m interested in software engineering, information security, and general computer science.
-- 🌱 I’m currently learning C++, information security.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying computer science, information security, and coding at Kent State University.
 - 📫 How to reach me: cmottsy@gmail.com
 
 <!---
